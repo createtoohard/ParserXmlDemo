@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ParseXmlDemo</string>
+    <string name="parsexmlbypull">Parse Xml By Pull</string>
+</resources>
